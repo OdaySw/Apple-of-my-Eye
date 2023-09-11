@@ -68,7 +68,7 @@ hr
 #nav-list a:hover /*** item's within HOVER ***/
 {
   border: 1.5px double #4E204D;
-  background-color: bisque;
+  background-color: #ffe4c4;
 }
 #phone
 {
@@ -743,4 +743,31 @@ h1 {
 
 .carousel_box {
   padding: 7% 15%;
+}
+
+.img {
+  width: 20%;
+  float: right;
+  margin-right: 50px;
+}
+
+.bp {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #4E204D;
+  font-size: 24px;
+  background: #C89FEB;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffe4c4;
+  text-decoration: none;
 }
