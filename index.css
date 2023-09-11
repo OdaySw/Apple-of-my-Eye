@@ -139,6 +139,7 @@ body
   background-color: #4E204D;
   font-size: 16px;
   color: #fff;
+  text-align: center;
 }
 /* BIG PIC styles */
 .container .BIG_PIC
@@ -716,4 +717,30 @@ svg
 
 .b {
   text-shadow: 10px #f1e7e7;
+}
+
+h1 {
+  margin-right: 80px;
+}
+
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+.testimonial-image {
+  width: 30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+.carousel_box {
+  padding: 7% 15%;
 }
